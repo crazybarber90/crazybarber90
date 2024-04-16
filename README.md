@@ -34,5 +34,5 @@
 <div align="center">
 <a href="https://github.com/crazybarber90">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazybarber90&theme=buefy" height="180em" />
-<img align="ledt" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazybarber90&theme=buefy" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazybarber90&theme=buefy" height="180em" />
 </div>
