@@ -1,5 +1,7 @@
 <h1>Nikola Petrovic<h1/>
 
+<h4 align="left">I am experienced full-stack, mailnly frontend developer, with </h4>
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikola-petrovic-468b7720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikola-petrovic-468b7720b/" height="30" width="40" /></a></p>
@@ -19,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="60" height="60" style="margin-right: 10px;"/>
 
+  <img src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/with-typescript/static/favicon/favicon.ico" alt="Next.js" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="60" height="60" style="margin-right: 10px;"/>
 
