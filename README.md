@@ -4,9 +4,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikola-petrovic-468b7720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikola-petrovic-468b7720b/" height="30" width="40" /></a></p>
 
+<br/>
 🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
-
-<h3 align="left" Tech stack</h3>
+<br/>
+<h3 align="left">⭐ Tech stack</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
