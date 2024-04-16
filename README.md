@@ -1,13 +1,14 @@
 <h1>Nikola Petrovic<h1/>
 
 <h4 style="color: red !important;" align="left">I am experienced full-stack, mainly frontend developer with knowledge of various technologies.</h4>
-<h5>During my active work in the last three years, I worked on various projects. The biggest challenge was working on the site builder "guru", which is still being worked on, which I manage and organize. I work there as frontend, backend and mobile developer, also I had the pleasure of participating in the complete server migrations from Hatzner to Digital Ocean, where I did 80% of the work myself where I can say that I have gained quite a good experience in working with servers as well as linux centOS/ubuntu.</h5>
+<h5>During my active proffesional working experience, since 2021, I worked on different projects. The biggest challenge was working on the site builder "guru", which is still being worked on, which I manage and organize. I work there as frontend, backend and mobile developer, also I had the pleasure of participating in the complete server migrations from Hatzner to Digital Ocean, where I did 80% of the work myself where I can say that I have gained quite a good experience in working with servers as well as linux centOS/ubuntu.</h5>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikola-petrovic-468b7720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikola-petrovic-468b7720b/" height="30" width="40" /></a></p>
 
 <br/>
+
 -🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
 
 <br/>
