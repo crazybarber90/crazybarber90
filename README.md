@@ -5,7 +5,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikola-petrovic-468b7720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikola-petrovic-468b7720b/" height="30" width="40" /></a></p>
 
 <br/>
-🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
+-🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
+
 <br/>
 <h3 align="left">⭐ Tech stack</h3>
 <p align="left">
