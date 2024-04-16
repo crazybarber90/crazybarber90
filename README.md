@@ -12,7 +12,6 @@
 -🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
 
 <br/>
-<br/>
 
 <h3 align="left">⭐ My skills</h3>
 <p align="left" style="margin-bottom: 10px;">
