@@ -1,7 +1,7 @@
 <h1>Nikola Petrovic<h1/>
 
-<h4 align="left">I am experienced full-stack, mailnly frontend developer</h4>
-<h5>During my active work in the last three years, I worked on various projects. The biggest challenge was working on the site builder "guru", which is still being worked on, which I manage and organize. I work there with frontend and backend and mobile applications, and I had the pleasure of participating in the complete server migration from Hatzner to Digital Ocean, where I did 80% of the work myself.</h5>
+<h4 align="left">I am experienced full-stack, mailnly frontend developer with knowledge of various technologies.</h4>
+<h5>During my active work in the last three years, I worked on various projects. The biggest challenge was working on the site builder "guru", which is still being worked on, which I manage and organize. I work there as frontend, backend and mobile developer, also I had the pleasure of participating in the complete server migration from Hatzner to Digital Ocean, where I did 80% of the work myself where I can say that I have gained quite a good experience in working with servers as well as linux centOS/ubuntu.</h5>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
