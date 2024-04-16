@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="60" height="60" style="margin-right: 10px;"/>
 
-  <img src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/with-typescript/static/favicon/favicon.ico" alt="Next.js" width="60" height="60" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/next-original-wordmark.svg" alt="Next" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="60" height="60" style="margin-right: 10px;"/>
 
