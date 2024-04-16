@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=crazybarber90&show_icons=true&locale=en&theme=" alt="crazybarber90" /></p>
+#<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=crazybarber90&show_icons=true&locale=en&theme=" alt="crazybarber90" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crazybarber90&theme=default" alt="crazybarber90" /></p>
 
