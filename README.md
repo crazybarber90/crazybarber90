@@ -1,6 +1,7 @@
 <h1>Nikola Petrovic<h1/>
 
-<h4 align="left">I am experienced full-stack, mailnly frontend developer, with </h4>
+<h4 align="left">I am experienced full-stack, mailnly frontend developer</h4>
+<h5>During my active work in the last three years, I worked on various projects. The biggest challenge was working on the site builder "guru", which is still being worked on, which I manage and organize. I work there with frontend and backend and mobile applications, and I had the pleasure of participating in the complete server migration from Hatzner to Digital Ocean, where I did 80% of the work myself.</h5>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -32,6 +33,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="60" height="60" style="margin-right: 10px;"/>
 
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="60" height="60" style="margin-right: 10px;"/>
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50">
 </p>
 
 
