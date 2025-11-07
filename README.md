@@ -38,7 +38,7 @@
 
 
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crazybarber90&theme=default" alt="crazybarber90" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crazybarber90&theme=default" alt="crazybarber90" />Me</p>
 
 <div align="center">
 <a href="https://github.com/crazybarber90">
