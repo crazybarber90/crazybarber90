@@ -1,7 +1,18 @@
 <h1>Nikola Petrovic<h1/>
 
-<h4 style="color: red !important;" align="left">I am experienced full-stack, mainly frontend developer with knowledge of various technologies.</h4>
-<h5>During my active proffesional working experience, since 2021, I worked on different projects. The biggest challenge was working on the site builder "guru", which is still being worked on, which I manage and organize. I work there as frontend, backend and mobile developer, also I had the pleasure of participating in the complete server migrations from Hatzner to Digital Ocean, where I did 80% of the work myself where I can say that I have gained quite a good experience in working with servers as well as linux centOS/ubuntu.</h5>
+<p align="left">
+  Currently leading the development of <b>Guru</b>, a sophisticated site-builder platform. I manage the entire lifecycle of the project, including a major migration from Hetzner to DigitalOcean, where I architected and executed 80% of the server infrastructure transition using Linux (Ubuntu/CentOS).
+</p>
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://nikola-petrovic.me" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/website.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikola-petrovic-468b7720b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -9,14 +20,14 @@
 
 <br/>
 
--🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
+🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
 <br/>
-- 🌐 | My Portfolio website [nikola-petrovic.me](https://nikola-petrovic.me)
+🌐 | My Portfolio website [nikola-petrovic.me](https://nikola-petrovic.me)
 
 <br/>
 
 <h3 align="left">⭐ My skills</h3>
-<table align="left">
+<table align="left" cellspacing="10" cellpadding="10">
   <tr>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="50" height="50" /></td>
@@ -34,6 +45,12 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="50" height="50" /></td>
     <td><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/System_Design-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="System Design" height="40" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Architecture-0078D4?style=for-the-badge&logo=micro-strategy&logoColor=white" alt="Architecture" height="40" />
+    </td>
   </tr>
 </table>
 
