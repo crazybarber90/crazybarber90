@@ -24,24 +24,26 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="50" height="50" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="50" height="50" /></td>
-    <td><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="50" height="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="50" height="50" /></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" height="40" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="50" height="50" /></td>
+    <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="40" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="50" height="50" /></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="50" height="50" /></td>
     <td><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/System_Design-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="System Design" height="40" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Architecture-0078D4?style=for-the-badge&logo=micro-strategy&logoColor=white" alt="Architecture" height="40" />
+  </tr>
+  <tr>
+    <td colspan="4" align="left">
+      <img src="https://img.shields.io/badge/System_Design-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="System Design" height="35" />
+      <img src="https://img.shields.io/badge/Architecture-0078D4?style=for-the-badge&logo=micro-strategy&logoColor=white" alt="Architecture" height="35" />
     </td>
   </tr>
 </table>
