@@ -1,8 +1,10 @@
 <h1>Nikola Petrovic<h1/>
 
-<p align="left">
+<h3 style="color: red !important;" align="left">Experienced <b>Full-Stack Developer</b> with a strong focus on <b>Clean Architecture</b> and <b>System Design</b>. Since 2021, I have been building scalable solutions from scratch to deployment. My expertise lies in designing robust infrastructures and bridging the gap between complex backend logic and high-performance frontend/mobile applications.</h3>
+
+<h4 align="left">
   Currently leading the development of <b>Guru</b>, a sophisticated site-builder platform. I manage the entire lifecycle of the project, including a major migration from Hetzner to DigitalOcean, where I architected and executed 80% of the server infrastructure transition using Linux (Ubuntu/CentOS).
-</p>
+</h4>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
