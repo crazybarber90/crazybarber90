@@ -10,11 +10,12 @@
 <br/>
 
 -🔭  | Currently working on [Guru](https://mobileappwebsite.guru/)
+-🔭  | My Portfolio website [Me](https://nikola-petrovic.me)
 
 <br/>
 
 <h3 align="left">⭐ My skills</h3>
-<p align="left" style="margin-bottom: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="60" height="60" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="60" height="60" style="margin-right: 10px;"/>
@@ -34,7 +35,7 @@
 
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="60" height="60" style="margin-right: 10px;"/>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50">
-</p>
+</div>
 
 
 
